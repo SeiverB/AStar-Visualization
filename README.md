@@ -21,7 +21,7 @@ the nodes on the board.
 
 ## HOW TO COMPILE / RUN
 
-To run game, simply execute the included .jar file.
+To run game, simply execute the .jar file from the releases page.
 
 To compile game from source into .jar file, ensure you have java jdk installed, 
 then open up your command-line interface.
